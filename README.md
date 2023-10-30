@@ -20,5 +20,5 @@ Um simples compressor de imagens construído com [React](https://reactjs.org/) e
 1. Clone o repositório e acesse o diretório.
 
 ```bash
-git clone https://github.com/RaulB-masai/react-image-compressor.git
+git clone (https://github.com/sandiegobj/compressordeimagens.git)
 cd react-image-compressor
